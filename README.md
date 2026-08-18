@@ -1,7 +1,7 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Courtney Sommerville 
 ## Graduate Data Analyst/Scientist 
 I am a recent Postgraduate Data Science graduate transitioning into the professional data landscape. With a strong academic foundation in advanced statistics and machine learning, I bridge the gap between complex data computation and clear business intelligence. I am highly proficient in writing clean Python code, structuring optimised SQL queries, and designing interactive Tableau dashboards. I am actively seeking Graduate or Entry-Level Data Analyst and Data Scientist roles where I can help teams turn raw datasets into actionable business strategies.
-* 🌍  I'm based in Cheshire, UK
+* 🌍  I'm based in Northwich, Cheshire, UK.
 * 🖥️  See my portfolio at [https://github.com/courtney-123](http://github.com/courtney-123)
 * ✉️  You can contact me at [courtneysommerville@outlook.com](mailto:courtneysommerville@outlook.com)
 * 🧠  I'm currently learning advanced applications of Python, SQL, and Tableau for end-to-end data analytics and predictive modelling.
