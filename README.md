@@ -12,3 +12,29 @@ I am a recent Postgraduate Data Science graduate transitioning into the professi
 
 ## Socials:
 <p align="left"> <a href="https://www.github.com/courtney-123" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+
+
+## 🚀 Portfolio Projects Directory
+
+### 🐍 Python Applications
+*   [Retail Sales Analysis](https://github.com) — Python data application focusing on commercial retail trends and consumer tracking.
+*   [Music Timeline Analytics](https://github.com) — Processing data pipelines to map historical and cultural musical shifts over time.
+*   [API Integration Service](https://github.com) — Core application scripts demonstrating live API request workflows and automation.
+
+### 📊 Data Science & Machine Learning
+*   [Machine Learning & Data Analysis](https://github.com) — Built CNN and neural network models alongside comprehensive statistical analysis.
+*   [Tech Pay Gap ML Analysis](https://github.com) — Workforce and pay equity analytics backed by a machine learning literature review.
+
+### 📈 Analytics & Infrastructure
+*   [Wales Transit Data Analytics](https://github.com) — End-to-end data pipeline processing transit statistics using R code and an interactive dashboard.
+*   [Database Management & Security](https://github.com) — Inventory management system documentation covering relational normalization and API security architecture.
+
+
+
+
+
+
+
+
+
+
